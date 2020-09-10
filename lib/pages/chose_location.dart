@@ -6,6 +6,7 @@ class ChoseLocation extends StatefulWidget {
 }
 
 class _ChoseLocationState extends State<ChoseLocation> {
+  
 
   @override
   Widget build(BuildContext context) {
